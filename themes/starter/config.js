@@ -309,7 +309,7 @@ const CONFIG = {
           URL: 'https://anchorchain.cc/accessories'
         }
       ]
-    }， 
+    }
   ],
 
   STARTER_FOOTER_BLOG_LATEST_TITLE: '',
