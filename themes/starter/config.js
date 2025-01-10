@@ -298,15 +298,14 @@ const CONFIG = {
     {
       TITLE: 'About US',
       LINK_GROUP: [
-        { TITLE: 'Home', URL: '/#home' },
-        { TITLE: 'Anchor', URL: 'https://anchorchain.cc/anchor' },
+        { TITLE: 'Anchor', URL: 'https://anchorchain.cc/Anchor' },
         {
-          TITLE: 'Chain',
-          URL: 'https://anchorchain.cc/chain'
+          TITLE: 'Chains',
+          URL: 'https://anchorchain.cc/Chains'
         },
         {
           TITLE: 'Accessories',
-          URL: 'https://anchorchain.cc/accessories'
+          URL: 'https://anchorchain.cc/Accessories'
         }
       ]
     }
